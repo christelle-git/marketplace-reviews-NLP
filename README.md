@@ -19,7 +19,7 @@ We perform a Principal Components Analysis in order to reduce the number of feat
 The Classification is performed by Logistic regression and others models comparison is conducted with Cross-validation. A grid-search strategy is applied on a Random Forest algorithm to improve the result, followed by a LightGBM algorithm.
 
 <p align="center">
-  <img src="https://github.com/christelle-git/reviews-classification/blob/master/index.jpeg">
+  <img src="https://github.com/christelle-git/marketplace-reviews-NLP/blob/master/index.jpeg">
 </p>
 
 OUTLINE:
